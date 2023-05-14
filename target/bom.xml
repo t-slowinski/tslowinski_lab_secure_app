@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bom serialNumber="urn:uuid:dfb67a77-737b-4897-920e-cf081fcc257c" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
+<bom serialNumber="urn:uuid:c1d88d50-d915-4002-adad-f38c9006658c" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
   <metadata>
-    <timestamp>2023-05-12T11:59:06Z</timestamp>
+    <timestamp>2023-05-14T09:39:06Z</timestamp>
     <tools>
       <tool>
         <vendor>OWASP Foundation</vendor>

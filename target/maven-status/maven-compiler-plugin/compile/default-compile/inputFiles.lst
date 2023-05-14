@@ -1,11 +1,11 @@
-/opt/sources/src/main/java/com/appsecco/dvja/models/Product.java
-/opt/sources/src/main/java/com/appsecco/dvja/services/UserService.java
-/opt/sources/src/main/java/com/appsecco/dvja/Constant.java
 /opt/sources/src/main/java/com/appsecco/example/Login.java
+/opt/sources/src/main/java/com/appsecco/dvja/Constant.java
+/opt/sources/src/main/java/com/appsecco/dvja/services/UserService.java
+/opt/sources/src/main/java/com/appsecco/dvja/models/Product.java
 /opt/sources/src/main/java/com/appsecco/dvja/interceptors/AuthenticationInterceptor.java
 /opt/sources/src/main/java/com/appsecco/dvja/controllers/ProductAction.java
-/opt/sources/src/main/java/com/appsecco/dvja/controllers/ResetPassword.java
 /opt/sources/src/main/java/com/appsecco/dvja/services/UserRegistrationService.java
+/opt/sources/src/main/java/com/appsecco/dvja/controllers/ResetPassword.java
 /opt/sources/src/main/java/com/appsecco/dvja/controllers/ApiAction.java
 /opt/sources/src/main/java/com/appsecco/dvja/models/User.java
 /opt/sources/src/main/java/com/appsecco/dvja/services/ProductService.java
